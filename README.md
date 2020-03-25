@@ -13,6 +13,8 @@ Data and documentation shared among the VDOT Habitat Technical Advisory Group.
 
 > Christine Tombleson - christine@vims.edu
 
+> Julie Herman - herman@vims.edu
+
 ### VDOT Advisory members: 
 > Amy O'Leary - Amy.Oleary@vdot.virginia.gov 
 
